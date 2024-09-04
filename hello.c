@@ -1,3 +1,5 @@
+//印出Hello World!
+
 #include <stdio.h>
 
 int main()
